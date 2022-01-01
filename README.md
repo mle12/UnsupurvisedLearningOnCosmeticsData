@@ -1,1 +1,1 @@
-# UnsupurvisedLearningOnCosmeticsData
+# Unsupurvised Learning On Cosmetics Data
